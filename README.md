@@ -1,10 +1,9 @@
 <h2>Opa, bão? <img src="</h2>
 
+  <div style="display: inline-block">
 <h3 align="center">&#x1F9D9; GitHub Stats</h3>
   
-<div style="display: inline-block"><br>
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=polluxastre&show_icons=true&theme=radical">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polluxastre&layout=compact&langs_count=16&theme=radical"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=polluxastre&show_icons=true&theme=radical" alt="Pollux_stats"> <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polluxastre&layout=compact&langs_count=16&theme=radical" alt="Pollux_lang_count">
   
 <div align="center">
 <img alt="separador-pic" src="separador-pc.gif">
