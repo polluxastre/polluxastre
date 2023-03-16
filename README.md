@@ -1,4 +1,4 @@
-<h2>Opa, bão? <img src="</h2>
+<h2>Opa, bão? <img width="42" height="42" src="sonicspinring.gif"</h2>
 
 <h3 align="center">&#x1F9D9; GitHub Stats</h3>
   
