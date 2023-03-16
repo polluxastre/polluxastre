@@ -13,8 +13,6 @@
   <img align="center" alt="Ally-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
 </div>
 
-<div align="center" style="display: inline_block">
+<div align="center" style="display: inline_block"> 
   
-  ![snake gif](https://github.com/polluxastre/polluxastre/blob/output/github-contribution-grid-snake.svg) <img align="right" alt="star-gif" height="150" style="border-radius:50px;" src="giphy.gif?width=150&height=150">
-  
-  </div>
+  ![snake gif](https://github.com/polluxastre/polluxastre/blob/output/github-contribution-grid-snake.svg)<img align="left" alt="star-gif" height="150" style="border-radius:50px;" src="giphy.gif?width=150&height=150"> </div>
