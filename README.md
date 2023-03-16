@@ -1,11 +1,9 @@
-## Opa, bão? 
+<h2>Opa, bão? &#x270C;</h2>
 
-<h2 align="center">&#x1F9D9; GitHub Stats</h2>
-
-<div>
+<h3 align="center">&#x1F9D9; GitHub Stats</h3>
+  
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=polluxastre&show_icons=true&theme=radical&include_all_commits=true&count=true"/><img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polluxastre&layout=compact&langs_count=16&theme=radical"/>
-</div>
-
+<hr>
 <div align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="giphy.gif">
