@@ -2,7 +2,9 @@
 
 <h3 align="center">&#x1F9D9; GitHub Stats</h3>
   
-[![Pollux's github stats](https://github-readme-stats.vercel.app/api?username=polluxastre&show_icons=true&theme=radical)](https://github.com/polluxastre/github-readme-stats) <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polluxastre&layout=compact&langs_count=16&theme=radical"/>
+<div style="display: inline-block"><br>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=polluxastre&show_icons=true&theme=radical">
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polluxastre&layout=compact&langs_count=16&theme=radical"/>
   
 <div align="center">
 <img alt="separador-pic" src="separador-pc.gif">
