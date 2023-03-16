@@ -3,7 +3,7 @@
   <div style="display: inline-block">
 <h3 align="center">&#x1F9D9; GitHub Stats</h3>
   
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=polluxastre&show_icons=true&theme=radical" alt="Pollux_stats"> <img height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polluxastre&layout=compact&langs_count=16&theme=radical" alt="Pollux_lang_count">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=polluxastre&show_icons=true&theme=radical" alt="Pollux_stats"> <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polluxastre&layout=compact&langs_count=16&theme=radical" alt="Pollux_lang_count">
   
 <div align="center">
 <img alt="separador-pic" src="separador-pc.gif">
